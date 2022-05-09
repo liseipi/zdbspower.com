@@ -1,0 +1,94 @@
+html, * {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+body {
+  font-size: 12px;
+}
+
+ul, ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.wrapper {
+  width: 930px;
+  margin: 0px auto;
+}
+
+.footer {
+  margin-top: 25px;
+}
+
+.zdbs_logo {
+  height: 100px;
+}
+
+.zdbs_logo img {
+  padding: 10px 0px;
+}
+
+.bstop_nav {
+}
+
+.bstop_nav ul {
+  background: #EBEBEB;
+  height: 30px;
+  border-bottom: solid 1px #fff;
+}
+
+.bstop_nav ul li {
+  float: left;
+  width: 100px;
+  text-align: center;
+  border-left: solid 1px #fff;
+  position: relative;
+  z-index: 990;
+}
+
+.bstop_nav ul li a {
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  display: block;
+  text-align: center;
+  font-weight: bold;
+  color: #666;
+}
+
+.bstop_nav ul li a:hover {
+  width: 100px;
+  height: 30px;
+  line-height: 30px;
+  background: #d8d8d8;
+  color: #666;
+}
+
+.bstop_nav ul li p {
+  position: absolute;
+  z-index: 999;
+  top: 30px;
+  left: 0px;
+  background: #d8d8d8;
+  display: none;
+}
+
+.bstop_nav ul li p a {
+  font-size: 12px;
+  font-weight: normal;
+  color: #000;
+}
+
+.bstop_nav ul li p a:hover {
+  background: #c5c5c5;
+  color: #000
+}
