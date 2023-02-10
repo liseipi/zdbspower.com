@@ -242,14 +242,10 @@
         </tr>
         <tr>
           <td height="11" valign="top" align="right" bgcolor="FAFAFA">
-            <NLink to="/picture">
-              <img src="@/static/images/more.gif" border="0">
-            </NLink>
+            <img src="@/static/images/more.gif" border="0">
           </td>
           <td valign="top" align="right" bgcolor="FAFAFA">
-            <NLink to="/net">
-              <img src="@/static/images/more.gif" border="0">
-            </NLink>
+            <img src="@/static/images/more.gif" border="0">
           </td>
         </tr>
         </tbody>

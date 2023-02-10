@@ -20,6 +20,16 @@
       </tr>
       </tbody>
     </table>
+    <script>
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?cae0e608b23f50d0c49be6f197b14034";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
+
   </div>
 </template>
 
