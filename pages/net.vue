@@ -57,7 +57,7 @@
             <tr>
               <td style="border-bottom:1px solid #ccc" width="3%"><img src="@/static/images/home.gif" height="10" width="12">
               </td>
-              <td style="border-bottom:1px solid #ccc" width="97%" align="left"> -&gt;&gt;中电保胜电力-&gt;&gt; <NLink to="#">营销网络</NLink></td>
+              <td style="border-bottom:1px solid #ccc" width="97%" align="left"> -&gt;&gt;广东中电保胜电力-&gt;&gt; <NLink to="#">营销网络</NLink></td>
             </tr>
             </tbody>
           </table>

@@ -24,13 +24,13 @@
               <div class="swiper-container">
                 <div class="swiper-wrapper">
                   <div class="swiper-slide">
-                    <img src="@/static/images/1x.jpg" alt="中电保胜电力">
+                    <img src="@/static/images/1x.jpg" alt="广东中电保胜电力">
                   </div>
                   <div class="swiper-slide">
-                    <img src="@/static/images/2x.jpg" alt="中电保胜电力">
+                    <img src="@/static/images/2x.jpg" alt="广东中电保胜电力">
                   </div>
                   <div class="swiper-slide">
-                    <img src="@/static/images/3x.jpg" alt="中电保胜电力">
+                    <img src="@/static/images/3x.jpg" alt="广东中电保胜电力">
                   </div>
                 </div>
                 <!-- Add Pagination -->
@@ -47,7 +47,7 @@
               <tr>
                 <td height="108" valign="top">
                   <div align="left" style="text-indent:2em; padding:10px;">
-                    中电保胜科技有限公司总部设立于广东广州。是高新技术型民营企业，主要从事电厂配套设备的生产和销售。 <br>
+                    广东中电保胜电力科技发展有限公司总部设立于广东广州。是高新技术型民营企业，主要从事电厂配套设备的生产和销售。 <br>
                     公司以先进的企业理念，优秀的企业文化，吸引了国内众多优秀的电力控制高级专业人才。全体员工本着敬业、勤奋、开拓、务实的企业精神，以高科技含量、高品质产品、高质量服务、谦虚诚恳的态度，创造了领先的市场占有率，使产品遍及全国五百七十多家电厂，并远销印度,苏丹,孟加拉.越南.印度尼西亚等国
                   </div>
                 </td>

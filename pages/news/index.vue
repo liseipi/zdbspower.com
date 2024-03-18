@@ -88,7 +88,7 @@
               <td style="border-bottom:1px solid #ccc" width="3%"><img src="@/static/images/home.gif" height="10"
                                                                        width="12"></td>
               <td style="border-bottom:1px solid #ccc" width="97%" align="left"> -&gt;&gt;
-                <NLink to="/">中电保胜电力</NLink>
+                <NLink to="/">广东中电保胜电力</NLink>
                 -&gt;&gt;
                 <NLink to="/news">新闻中心</NLink>
               </td>

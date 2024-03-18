@@ -7,15 +7,15 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: '中电保胜电力科技有限公司',
+    title: '广东中电保胜电力科技发展有限公司',
     htmlAttrs: {
       lang: 'en'
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'keywords', name: 'keywords', content: '中电保胜电力科技有限公司' },
-      { hid: 'description', name: 'description', content: '中电保胜科技有限公司总部设立于广东广州。是高新技术型民营企业，主要从事电厂配套设备的生产和销售。' },
+      { hid: 'keywords', name: 'keywords', content: '广东中电保胜电力科技发展有限公司' },
+      { hid: 'description', name: 'description', content: '广东中电保胜电力科技发展有限公司总部设立于广东广州。是高新技术型民营企业，主要从事电厂配套设备的生产和销售。' },
       { name: 'format-detection', content: 'telephone=no' },
       { name: 'baidu-site-verification', content: 'code-zOBdXOSZhl' }
     ],
@@ -46,6 +46,7 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
+    '@nuxt/postcss8'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
