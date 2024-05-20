@@ -9,7 +9,7 @@
         <td style="color:#333" width="446" align="left" bgcolor="#cccccc">
           <p>
             <span class="STYLE1">
-              <br>Copyright 2014-{{ new Date().getFullYear() }} 广东中电保胜电力科技发展有限公司 All Rights Reserved<br>
+              <br><a href="https://beian.miit.gov.cn/" target="_blank" style="text-decoration: underline;">粤ICP备2024252139号</a>  &copy;广东中电保胜电力 2014-{{ new Date().getFullYear() }} 版权所有<br>
 				    </span>
             <span class="STYLE1"></span><br>
           </p>
