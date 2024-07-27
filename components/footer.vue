@@ -11,7 +11,9 @@
             <span class="STYLE1">
               <br><a href="https://beian.miit.gov.cn/" target="_blank" style="text-decoration: underline;">粤ICP备2024252139号</a>  &copy;广东中电保胜电力 2014-{{ new Date().getFullYear() }} 版权所有<br>
 				    </span>
-            <span class="STYLE1"></span><br>
+            <span class="STYLE1">
+              网址：<a href="https://www.gdelectric.com.cn" title="website" style="text-decoration: underline;">https://www.gdelectric.com.cn</a>
+            </span><br>
           </p>
         </td>
         <td valign="middle" width="232" align="right" bgcolor="cccccc">
